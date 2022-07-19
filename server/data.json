@@ -1,0 +1,23 @@
+{
+    "User": [
+        {
+            "name": "Sharan",
+            "email": "sharan.d1997@gmail.com",
+            "password": "12345567890",
+            "mobile": 9988776655,
+            "userId": "4562b7b5-dc19-4366-885b-9fd40a39fe61"
+        }
+        
+        
+    ],
+    "Task": [
+        {
+            "title": "todotodo",
+            "expiry": "9",
+            "userId": "4562b7b5-dc19-4366-885b-9fd40a39fe61",
+            "startTime": 1657737569301,
+            "taskId": "7e054c53-6fbe-47b8-8cfb-61f93ffd4511"
+        }
+        
+    ]
+}
